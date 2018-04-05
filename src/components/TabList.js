@@ -8,7 +8,6 @@ export default class TabList extends Component {
   };
 
   static propTypes = {
-    children: PropTypes.oneOfType([PropTypes.object, PropTypes.array]),
     className: PropTypes.oneOfType([PropTypes.string, PropTypes.array, PropTypes.object]),
   };
 
