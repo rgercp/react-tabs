@@ -1,6 +1,6 @@
 {
-  "name": "react-tabs",
-  "version": "2.2.1",
+  "name": "react-tabs-styled-components",
+  "version": "0.0.1",
   "description": "An accessible and easy tab component for ReactJS",
   "main": "lib/index.js",
   "module": "esm/index.js",
@@ -27,12 +27,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/reactjs/react-tabs.git"
+    "url": "https://github.com/rgercp/react-tabs-styled-components.git"
   },
-  "author": "Matt Zabriskie",
+  "author": "Rogério Pimentel",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/reactjs/react-tabs/issues"
+    "url": "https://github.com/rgercp/react-tabs-styled-components/issues"
   },
   "files": [
     "dist",
@@ -41,7 +41,7 @@
     "style",
     "src"
   ],
-  "homepage": "https://github.com/reactjs/react-tabs",
+  "homepage": "https://github.com/rgercp/react-tabs-styled-components",
   "keywords": [
     "react",
     "tabs",
