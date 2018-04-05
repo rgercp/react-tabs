@@ -1,5 +1,5 @@
-export function isTab(el) {
-  return el.type && el.type.tabsRole === 'Tab';
+export function isTab() {
+  return true;
 }
 
 export function isTabPanel(el) {

@@ -72,6 +72,7 @@ export default class Tab extends Component {
         }}
         role="tab"
         id={id}
+        selected={selected}
         aria-selected={selected ? 'true' : 'false'}
         aria-disabled={disabled ? 'true' : 'false'}
         aria-controls={panelId}
