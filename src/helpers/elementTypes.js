@@ -2,8 +2,8 @@ export function isTab() {
   return true;
 }
 
-export function isTabPanel(el) {
-  return el.type && el.type.tabsRole === 'TabPanel';
+export function isTabPanel() {
+  return true;
 }
 
 export function isTabList(el) {
